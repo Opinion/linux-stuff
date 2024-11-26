@@ -1,0 +1,13 @@
+#
+# Opinion's bashrc additions
+# https://github.com/Opinion/linux-stuff
+#
+
+# pls - sudo
+alias pls='sudo'
+
+# plspls - sudo su
+alias plspls='sudo su'
+
+# ducks - Find large files and directories
+alias ducks='du -ckhs ./* | sort -hr'
